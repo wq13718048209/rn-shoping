@@ -8,7 +8,12 @@
   },
   "dependencies": {
     "react": "16.3.1",
-    "react-native": "0.55.3"
+    "react-native": "0.55.3",
+    "mobx": "^4.2.0",
+    "mobx-react": "^5.0.0",
+    "mobx-state-tree": "^2.0.4",
+    "react-native-vector-icons": "^4.6.0",
+    "react-navigation": "^2.0.0-rc.1"
   },
   "devDependencies": {
     "babel-jest": "22.4.3",
